@@ -1,4 +1,5 @@
 # bot.py
+#pog
 import os
 
 import discord
